@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ianbulack
-- 👀 I’m interested in ... Programming, hip-hop music, and food
+- 👀 I’m interested in ... Back-end programming.
 - 🌱 I’m currently learning ... Scientific Computing with Python on FreeCodeCamp
 - 💞️ I’m looking to collaborate on ... Anything pertaining to Python.
 - 📫 How to reach me ... Email: ianbulack@gmail.com Cell: 267-250-3112, more likely to answer txts.
